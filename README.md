@@ -4,7 +4,7 @@ Machine learning clustering project to segment customers of a fashion retail com
 ---
 
 ## Overview
-This project was developed for the **Machine Learning** course (4th semester) as part of the individual final exam. The objective is to group customers into distinct segments using unsupervised learning, enabling the business to create personalized marketing campaigns and improve customer engagement.
+This project was developed for the **Machine Learning** course as part of the individual final exam. The objective is to group customers into distinct segments using unsupervised learning, enabling the business to create personalized marketing campaigns and improve customer engagement.
 
 The workflow includes:
 - Exploratory Data Analysis (EDA) to identify patterns and relationships in purchasing behavior
